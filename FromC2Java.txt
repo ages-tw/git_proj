@@ -1,0 +1,53 @@
+From C to Java
+give Basic.c 
+<-- rewrite the program in Java
+<-- almost finish the Java program <-- 你幾乎已經完成了！
+
+1) copy to eclipse
+2) modify to run in eclipse
+變數的命名規則:
+與C相同：第一個字母必須是英文字母(小寫)或底線(_)，其後可接英文字母、數字與底線。
+Java同時多了可以使用錢號($)為首的變數名稱，但未必要用她，因此可以簡單想成命名規則與C相同。
+
+printf() or printf("\n")  <--> System.out.print() or System.out.println()
+printf <--> System.out.printf()
+int k;  vs. for (int k=1; ...
+
+for (int k=1; ...
+System.out.prinln(k); // <-- error! <-- scope
+
+char *str = "String in C!";
+String str = "String in Java!";
+
+1+2+...+n=?
+
+字串的相加:
+
+array
+
+字串的相加:
+
+
+
+OOP的觀念:
+Your are the VIP or even VVIP.
+有專人為您服務，提供的都是最新鮮的東西。
+例如:
+秘書: 只要給她文件的內容與告知要寄給誰，她就會接手其他的細節，幫你把信打好寄出去。
+快遞: 只要你把要寄送的東西，註明寄到哪裡以及寄給誰，接下來他們就會去完成遞送的任務。
+因此只要我們能夠擁有一位秘書或快遞，就可以協助我們完成接下來的工作。這樣的秘書或快遞就好比是物件的概念。
+
+
+
+JOptionPane
+scanf <--> Scanner
+
+Layout: 
+design and coding
+
+
+Good Links about Kotlin:
+Get type of a variable in Kotlin
+https://stackoverflow.com/questions/45165143/get-type-of-a-variable-in-kotlin
+Ranges and Progressions
+https://kotlinlang.org/docs/reference/ranges.html
